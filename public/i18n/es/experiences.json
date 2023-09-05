@@ -1,0 +1,49 @@
+{
+  "title": "Lo que he hecho hasta ahora",
+  "subtitle": "Experiencia laboral.",
+  "experience": [
+    {
+      "title": "Grado en Ingeniería Informática",
+      "company_name": "Universidad de La Sabana",
+      "icon": "./assets/company/unisabana.png",
+      "iconBg": "#383E56",
+      "date": "Enero 2017 - Mayo 2023",
+      "points": [
+        "Desarrollo de software para dispositivos móviles, aplicaciones interactivas y videojuegos.",
+        "Diseño, desarrollo y gestión de sistemas de información para empresas y organizaciones.",
+        "Creación y establecimiento de nuevas empresas y organizaciones.",
+        "Gestión de infraestructuras y redes informáticas complejas.",
+        "Implementación de tecnologías de automatización, incluyendo robótica humanoide."
+      ]
+    },
+    {
+      "title": "Desarrollador Front End",
+      "company_name": "Hackmonkeys",
+      "icon": "./assets/company/hackmonkeys.png",
+      "iconBg": "#E6DEDD",
+      "date": "Agosto 2022 - Enero 2023",
+      "points": [
+        "Liderando el desarrollo de aplicaciones móviles utilizando React Native y Expo.",
+        "Desarrollando mantenedores confiables para páginas web utilizando Vue.js y Bootstrap.",
+        "Creando módulos robustos y aplicaciones web en producción, aprovechando React con Material UI.",
+        "Creando aplicaciones web innovadoras empleando Vue.js.",
+        "Arquitectura de APIs RESTful desde su concepción hasta su implementación aprovechando Node."
+      ]
+    },
+    {
+      "title": "Fundador",
+      "company_name": "NetStar",
+      "icon": "./assets/company/netstar.png",
+      "iconBg": "#383E56",
+      "date": "Enero 2023 - Presente",
+      "points": [
+        "Fundé una empresa de soluciones de software especializada en crear aplicaciones web de primera calidad.",
+        "Demostré habilidades de liderazgo y emprendimiento al tomar la iniciativa de iniciar mi propio negocio.",
+        "Aproveché mi experiencia como desarrollador front-end para establecerme como un ingeniero informático experto y capacitado.",
+        "Desarrollé estrategias efectivas para gestionar proyectos, negociar contratos y construir relaciones sólidas con los clientes.",
+        "Utilicé enfoques innovadores para crear aplicaciones web vanguardistas que superaron las expectativas de los clientes.",
+        "Brindé un servicio excepcional al cliente a través de una comunicación proactiva con los clientes durante todo el proceso de desarrollo."
+      ]
+    }
+  ]
+}

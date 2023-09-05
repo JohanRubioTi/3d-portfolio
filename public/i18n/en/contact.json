@@ -1,0 +1,14 @@
+{
+  "title": "Get in touch",
+  "subtitle": "Contact.",
+  "nameTitle": "Your Name",
+  "namePlaceholder": "What's your name?",
+  "emailTitle": "Your email",
+  "emailPlaceholder": "What's your email address?",
+  "messageTitle": "Your Message",
+  "messagePlaceholder": "What do you want to say?",
+  "send": "Send",
+  "sending": "Sending...",
+  "alertSuccess": "Thank you. I will get back to you as soon as possible.",
+  "alertError": "Something went wrong."
+}

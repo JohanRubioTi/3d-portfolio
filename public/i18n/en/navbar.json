@@ -1,0 +1,18 @@
+{
+  "title1": "Johan ",
+  "title2": "| Web Developer ",
+  "items": [
+  {
+    "id": "about",
+    "title": "About"
+  },
+  {
+    "id": "work",
+    "title": "Work"
+  },
+  {
+    "id": "contact",
+    "title": "Contact"
+  }
+ ]
+}

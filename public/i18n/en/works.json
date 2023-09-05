@@ -1,0 +1,263 @@
+{
+  "title": "My work",
+  "subtitle": "Projects.",
+  "description": "Following projects showcases my skills and experience through real-world examples of my work. Each project is briefly described with links to code repositories and live demos in it. It reflects my ability to solve complex problems, work with different technologies, and manage projects effectively.",
+  "projects": [
+    {
+      "name": "EstateEase",
+      "description": "Introducing a cutting-edge real estate platform with a sleek Material UI 5 design, built on the MERN stack and Refine. Complete with a REST API, chat feature, and Google Login, users can effortlessly publish properties, create custom profiles, and access comprehensive analytics via the ApexCharts dashboard. A truly modern solution delivering seamless user experiences for real estate professionals and clients alike.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "expressjs",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "mongodb",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "materialui",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/estateease.png",
+      "source_code_link": "https://github.com/JohanRubioTi/estate-ease",
+      "website_link": "https://estate-ease.netlify.app"
+    },
+    {
+      "name": "SonicScape",
+      "description": "Introducing a state-of-the-art e-commerce app that boasts advanced cart features, seamless Stripe integration, and an intuitive CMS allowing easy on-the-go product management. A modern solution to streamline your online store's operation, delivering unbeatable user experience.",
+      "tags": [
+        {
+          "name": "next",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "stripe",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "sanity",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/sonicscape.png",
+      "source_code_link": "https://github.com/JohanRubioTi/sonic-scape-ecommerce",
+      "website_link": "https://sonic-scape-ecommerce.vercel.app"
+    },
+    {
+      "name": "PromptVision",
+      "description": "Designed and developed a cutting-edge AI image generator using React and pure CSS styling. Leveraged the PromptHero Open Journey API to enable natural language prompts for image creation, providing a seamless and creative user experience.",
+      "tags": [
+        {
+          "name": "express",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "propmpthero openjourney API",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/promptvision.png",
+      "source_code_link": "https://github.com/JohanRubioTi/prompt-vision",
+      "website_link": "https://prompt-vision.netlify.app"
+    },
+    {
+      "name": "CodeTalk",
+      "description": "I successfully developed a coding-focused chatbot using OpenAI API, JavaScript, and Express.js. My project was a replica of ChatGPT, showcasing my expertise in programming and AI, and delivering an intuitive and user-friendly chatbot experience to fellow coders.",
+      "tags": [
+        {
+          "name": "express",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "OpenAI API",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/codetalk.png",
+      "source_code_link": "https://github.com/JohanRubioTi/codetalk",
+      "website_link": "https://codetalk.netlify.app/"
+    },
+    {
+      "name": "AI Gateway",
+      "description": "Introducing a cutting-edge AI/GPT themed website built with modern UI/UX using React. Designed to inform visitors about the limitless potential of AI/GPT, this project showcases my ability to deliver seamless user experiences with a modern edge.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/aigateway.png",
+      "source_code_link": "https://github.com/JohanRubioTi/ai-gateway",
+      "website_link": "https://gpt-gateway.netlify.app"
+    },
+    {
+      "name": "ShirtCraft 3D",
+      "description": "Introducing an AI-powered ThreeJS 3D product website that lets users easily create and customize 3D models with custom colors and file support. Built with TailwindCSS and Framer Motion, this cutting-edge site ensures seamless performance and responsiveness across all devices.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "threejs",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "framer motion",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "OpenAI API",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "tailwindCSS",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/shapecraft.png",
+      "source_code_link": "https://github.com/JohanRubioTi/shirt",
+      "website_link": "https://shirtcraft.netlify.app"
+    },
+    {
+      "name": "Wetforest Homepage Maintainers",
+      "description": "Developed a maintainer allowing dynamic modifications of images & texts for Wetforest Ventures' website. Utilized Vue.js & Bootstrap CSS to create a robust multilingual platform delivering seamless UX & exceeding client expectations. Showcases my aptitude for developing dynamic websites using cutting-edge tech.",
+      "tags": [
+        {
+          "name": "vue",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "mongodb",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "bootstrap",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/wetforest.png",
+      "source_code_link": "",
+      "website_link": "https://wetforest.com/"
+    },
+    {
+      "name": "Porta",
+      "description": "Revamped Porta, a virtual platform for managing worker hours. Improved existing code, fixed bugs, & utilized Express.js, Handlebars, JS email automation & SQL Server to enhance user experience & ensure seamless operations.",
+      "tags": [
+        {
+          "name": "handlebars",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "SQL server",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/porta.png",
+      "source_code_link": "",
+      "website_link": "portasistema.azurewebsites.net"
+    },
+    {
+      "name": "Meta Jungle",
+      "description": "Created a front-end for the Meta Jungle platform using Vue & SASS, designed & developed multiple sections such as homepage, blog, job listings, & maintainer modules for SEO-optimized content. Contributed expertise to a consultant-led project within the metaverse arena, delivering seamless user experiences with a modern edge.",
+      "tags": [
+        {
+          "name": "vue",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "sass",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/metajungle.png",
+      "source_code_link": "",
+      "website_link": "https://metajungle.group/"
+    },
+    {
+      "name": "Customs agencies Moya and Vio",
+      "description": "Revamped internal platform of Moya & Vio, Chile customs agencies. Added responsive interface, refactored code for improved performance, fixed critical bugs & added mantainers & features. ",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "MongoDB",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "MaterialUI",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/moya.png",
+      "source_code_link": "",
+      "website_link": "https://agenciamoya-qa.web.app/login"
+    },
+    {
+      "name": "Rayo",
+      "description": "I successfully refactored the code for Rayo's mobile app. The app allowed workers to easily track delivery addresses and routes, and my optimization efforts significantly improved the app's performance and usability.",
+      "tags": [
+        {
+          "name": "React Native",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Expo",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "MongoDB",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "./assets/rayo.png",
+      "source_code_link": "",
+      "website_link": "https://play.google.com/store/apps/details?id=com.rayo.rayoLatam"
+    },
+    {
+      "name": "TrashQuest",
+      "description": "I designed a captivating retro-style video game using Phaser on JavaScript. The project showcases my proficiency in game development and programming, delivering an engaging and entertaining experience to users.",
+      "tags": [
+        {
+          "name": "javascript",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "phaser",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "./assets/moya.png",
+      "source_code_link": "https://github.com/JohanRubioTi/trashquest",
+      "website_link": "https://kradron.itch.io/trashquest"
+    }
+  ]
+}

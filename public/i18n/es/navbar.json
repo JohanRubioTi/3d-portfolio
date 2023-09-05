@@ -1,0 +1,18 @@
+{
+  "title1": "Johan ",
+  "title2": "| Desarrollador Web ",
+  "items": [
+    {
+      "id": "about",
+      "title": "Acerca de"
+    },
+    {
+      "id": "work",
+      "title": "Trabajo"
+    },
+    {
+      "id": "contact",
+      "title": "Contacto"
+    }
+  ]
+}

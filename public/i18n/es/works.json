@@ -1,0 +1,263 @@
+{
+  "title": "Mi trabajo",
+  "subtitle": "Proyectos.",
+  "description": "Los siguientes proyectos muestran mis habilidades y experiencia a través de ejemplos reales de mi trabajo. Cada proyecto se describe brevemente con enlaces a repositorios de código y demos en vivo. Refleja mi capacidad para resolver problemas complejos, trabajar con diferentes tecnologías y gestionar proyectos de manera efectiva.",
+  "projects": [
+    {
+      "name": "EstateEase",
+      "description": "Presentamos una plataforma inmobiliaria de vanguardia con un elegante diseño Material UI 5, construida sobre la pila MERN y Refine. Completa con una API REST, función de chat y inicio de sesión con Google, los usuarios pueden publicar propiedades sin esfuerzo, crear perfiles personalizados y acceder a análisis completos a través del panel de ApexCharts. Una solución verdaderamente moderna que ofrece experiencias de usuario fluidas para profesionales y clientes del sector inmobiliario por igual.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "expressjs",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "mongodb",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "materialui",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/estateease.png",
+      "source_code_link": "https://github.com/JohanRubioTi/estate-ease",
+      "website_link": "https://estate-ease.netlify.app"
+    },
+    {
+      "name": "SonicScape",
+      "description": "Presentamos una aplicación de comercio electrónico de última generación que cuenta con funciones avanzadas de carrito, integración perfecta con Stripe y un CMS intuitivo que permite una fácil gestión de productos sobre la marcha. Una solución moderna para agilizar la operación de su tienda en línea, ofreciendo una experiencia de usuario inmejorable.",
+      "tags": [
+        {
+          "name": "next",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "stripe",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "sanity",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/sonicscape.png",
+      "source_code_link": "https://github.com/JohanRubioTi/sonic-scape-ecommerce",
+      "website_link": "https://sonic-scape-ecommerce.vercel.app"
+    },
+    {
+      "name": "PromptVision",
+      "description": "Diseñé y desarrollé un generador de imágenes AI de vanguardia utilizando React y estilos CSS puros. Aproveché la API Open Journey de PromptHero para habilitar indicaciones en lenguaje natural para la creación de imágenes, proporcionando una experiencia de usuario fluida y creativa.",
+      "tags": [
+        {
+          "name": "express",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "propmpthero openjourney API",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/promptvision.png",
+      "source_code_link": "https://github.com/JohanRubioTi/prompt-vision",
+      "website_link": "https://prompt-vision.netlify.app"
+    },
+    {
+      "name": "CodeTalk",
+      "description": "Desarrollé con éxito un chatbot enfocado en la codificación utilizando OpenAI API, JavaScript y Express.js. Mi proyecto fue una réplica de ChatGPT, mostrando mi experiencia en programación y AI, y brindando una experiencia intuitiva y fácil de usar a otros programadores.",
+      "tags": [
+        {
+          "name": "express",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "OpenAI API",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/codetalk.png",
+      "source_code_link": "https://github.com/JohanRubioTi/codetalk",
+      "website_link": "https://codetalk.netlify.app/"
+    },
+    {
+      "name": "AI Gateway",
+      "description": "Presentamos un sitio web de vanguardia con temática de IA/GPT construido con una moderna interfaz de usuario/experiencia de usuario utilizando React. Diseñado para informar a los visitantes sobre el potencial ilimitado de la IA/GPT, este proyecto muestra mi capacidad para ofrecer experiencias de usuario fluidas con un toque moderno.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/aigateway.png",
+      "source_code_link": "https://github.com/JohanRubioTi/ai-gateway",
+      "website_link": "https://gpt-gateway.netlify.app"
+    },
+    {
+      "name": "ShirtCraft 3D",
+      "description": "Presentamos un sitio web de productos 3D ThreeJS impulsado por IA que permite a los usuarios crear y personalizar fácilmente modelos 3D con colores personalizados y soporte de archivos. Construido con TailwindCSS y Framer Motion, este sitio de vanguardia garantiza un rendimiento y una capacidad de respuesta fluidos en todos los dispositivos.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "threejs",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "framer motion",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "OpenAI API",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "tailwindCSS",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/shapecraft.png",
+      "source_code_link": "https://github.com/JohanRubioTi/shirt",
+      "website_link": "https://shirtcraft.netlify.app"
+    },
+    {
+      "name": "Wetforest Homepage Maintainers",
+      "description": "Desarrollé un mantenedor que permite modificaciones dinámicas de imágenes y textos para el sitio web de Wetforest Ventures. Utilicé Vue.js y Bootstrap CSS para crear una plataforma multilingüe robusta que ofrece una experiencia de usuario fluida y supera las expectativas del cliente. Muestra mi aptitud para desarrollar sitios web dinámicos utilizando tecnología de vanguardia.",
+      "tags": [
+        {
+          "name": "vue",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "mongodb",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "bootstrap",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/wetforest.png",
+      "source_code_link": "",
+      "website_link": "https://wetforest.com/"
+    },
+    {
+      "name": "Porta",
+      "description": "Renové Porta, una plataforma virtual para gestionar las horas de trabajo. Mejoré el código existente, corregí errores y utilicé Express.js, Handlebars, automatización de correo electrónico JS y SQL Server para mejorar la experiencia del usuario y garantizar operaciones fluidas.",
+      "tags": [
+        {
+          "name": "handlebars",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "SQL server",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "css",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/porta.png",
+      "source_code_link": "",
+      "website_link": "portasistema.azurewebsites.net"
+    },
+    {
+      "name": "Meta Jungle",
+      "description": "Creé un front-end para la plataforma Meta Jungle utilizando Vue y SASS, diseñé y desarrollé múltiples secciones como la página de inicio, el blog, las ofertas de trabajo y módulos mantenedores para contenido optimizado para SEO. Aporté mi experiencia a un proyecto liderado por consultores dentro del ámbito metaverso, ofreciendo experiencias de usuario fluidas con un toque moderno.",
+      "tags": [
+        {
+          "name": "vue",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "sass",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/metajungle.png",
+      "source_code_link": "",
+      "website_link": "https://metajungle.group/"
+    },
+    {
+      "name": "Customs agencies Moya and Vio",
+      "description": "Renové la plataforma interna de Moya & Vio, agencias aduaneras chilenas. Agregué una interfaz receptiva, refactoricé el código para mejorar el rendimiento, corregí errores críticos y agregué mantenedores y características.",
+      "tags": [
+        {
+          "name": "react",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "MongoDB",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "MaterialUI",
+          "color": "pink-text-gradient"
+        }
+      ],
+      "image": "./assets/moya.png",
+      "source_code_link": "",
+      "website_link": "https://agenciamoya-qa.web.app/login"
+    },
+    {
+      "name": "Rayo",
+      "description": "Refactoricé con éxito el código para la aplicación móvil Rayo. La aplicación permitía a los trabajadores rastrear fácilmente las direcciones y rutas de entrega, y mis esfuerzos de optimización mejoraron significativamente el rendimiento y la usabilidad de la aplicación.",
+      "tags": [
+        {
+          "name": "React Native",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "Expo",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "MongoDB",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "./assets/rayo.png",
+      "source_code_link": "",
+      "website_link": "https://play.google.com/store/apps/details?id=com.rayo.rayoLatam"
+    },
+    {
+      "name": "TrashQuest",
+      "description": "Diseñé un cautivador videojuego de estilo retro utilizando Phaser en JavaScript. El proyecto muestra mi competencia en el desarrollo de juegos y programación, ofreciendo una experiencia atractiva y entretenida a los usuarios.",
+      "tags": [
+        {
+          "name": "javascript",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "phaser",
+          "color": "green-text-gradient"
+        }
+      ],
+      "image": "./assets/moya.png",
+      "source_code_link": "https://github.com/JohanRubioTi/trashquest",
+      "website_link": "https://kradron.itch.io/trashquest"
+    }
+  ]
+}

@@ -223,7 +223,7 @@ const projects = [
     ],
     image: estateease,
     source_code_link: "https://github.com/JohanRubioTi/estate-ease",
-    website_link: "https://estate-esase.netlify.app",
+    website_link: "https://estate-ease.netlify.app",
   },
   {
     name: "SonicScape",
@@ -249,8 +249,8 @@ const projects = [
     ],
     image: sonicscape,
     source_code_link: "https://github.com/JohanRubioTi/sonic-scape-ecommerce",
-    website_link: "https://sonic-scape.netlify.app",
-  },
+    website_link: "https://sonic-scape-ecommerce.vercel.app",
+      },
   {
     name: "PromptVision",
     description:
@@ -314,7 +314,7 @@ const projects = [
     website_link: "https://gpt-gateway.netlify.app",
   },
   {
-    name: "ShapeCraft 3D",
+    name: "ShirtCraft 3D",
     description:
       "Introducing an AI-powered ThreeJS 3D product website that lets users easily create and customize 3D models with custom colors and file support. Built with TailwindCSS and Framer Motion, this cutting-edge site ensures seamless performance and responsiveness across all devices.",
     tags: [
@@ -340,7 +340,7 @@ const projects = [
       },
     ],
     image: shapecraft,
-    source_code_link: "https://github.com/JohanRubioTi/shapecraft",
+    source_code_link: "https://github.com/JohanRubioTi/shirt",
     website_link: "https://shirtcraft.netlify.app",
   },
   {

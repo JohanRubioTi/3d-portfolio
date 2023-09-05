@@ -1,0 +1,14 @@
+{
+  "title": "Ponte en contacto",
+  "subtitle": "Contacto.",
+  "nameTitle": "Tu nombre",
+  "namePlaceholder": "¿Cuál es tu nombre?",
+  "emailTitle": "Tu correo electrónico",
+  "emailPlaceholder": "¿Cuál es tu dirección de correo electrónico?",
+  "messageTitle": "Tu mensaje",
+  "messagePlaceholder": "¿Qué quieres decir?",
+  "send": "Enviar",
+  "sending": "Enviando...",
+  "alertSuccess": "Gracias. Me pondré en contacto contigo lo antes posible.",
+  "alertError": "Algo salió mal."
+}

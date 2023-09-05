@@ -1,0 +1,24 @@
+{
+  "title": "Introducción",
+  "subtitle": "Visión general.",
+  "description1": "Soy un desarrollador web y móvil experto en JavaScript, IA, React.js, Next.js, Vue.js y Three.js. Como ingeniero en informática, aporto un enfoque creativo para resolver problemas y me esfuerzo por ofrecer los mejores resultados para las necesidades de su negocio. Mi enfoque está en colaborar estrechamente con los clientes para garantizar el desarrollo eficiente de soluciones fáciles de usar que satisfagan sus requisitos únicos. Con mi compromiso y pasión por ofrecer un trabajo de alta calidad, estoy seguro de que juntos podemos convertir sus ideas en realidad.",
+  "description2": "¡Construyamos algo increíble!",
+  "services": [
+    {
+      "title": "Desarrollador web",
+      "icon": "./assets/logo.png"
+    },
+    {
+      "title": "Desarrollador de React Native",
+      "icon": "./assets/mobile.png"
+    },
+    {
+      "title": "Desarrollador de backend",
+      "icon": "./assets/backend.png"
+    },
+    {
+      "title": "Creador de contenido",
+      "icon": "./assets/creator.png"
+    }
+  ]
+}

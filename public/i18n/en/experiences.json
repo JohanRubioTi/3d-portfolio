@@ -1,0 +1,49 @@
+{
+  "title":"What I have done so far",
+  "subtitle":"Work Experience.",
+  "experience": [
+      {
+        "title": "Informatics Engineer Degree",
+        "company_name": "Universidad de La Sabana",
+        "icon": "./assets/company/unisabana.png",
+        "iconBg": "#383E56",
+        "date": "January 2017 - May 2023",
+        "points": [
+          "Software development for mobile devices, interactive applications and video games.",
+          "Designing, developing and managing information systems for businesses and organizations.",
+          "Creating and establishing new companies and organizations.",
+          "Managing complex IT infrastructure and networks.",
+          "Implementing automation technologies including humanoid robotics."
+        ]
+      },
+      {
+        "title": "Front End Developer",
+        "company_name": "Hackmonkeys",
+        "icon": "./assets/company/hackmonkeys.png",
+        "iconBg": "#E6DEDD",
+        "date": "August 2022 - January 2023",
+        "points": [
+          "Spearheading mobile application development using React Native and Expo.",
+          "Developing dependable maintainers for web pages utilizing Vue.js and Bootstrap.",
+          "Crafting robust modules and web applications in production, leveraging React with Material UI.",
+          "Creating innovative web applications employing Vue.js.",
+          "Architecting RESTful APIs from inception to implementation leveraging Node."
+        ]
+      },
+      {
+        "title": "Founder",
+        "company_name": "NetStar",
+        "icon": "./assets/company/netstar.png",
+        "iconBg": "#383E56",
+        "date": "January 2023 - Present",
+        "points": [
+          "Founded a software solutions company specializing in creating top-notch web applications",
+          "Demonstrated leadership and entrepreneurial skills by taking the initiative to start my own business",
+          "Leveraged expertise as a front-end developer to establish myself as a knowledgeable and skilled informatics engineer",
+          "Developed effective strategies for managing projects, negotiating contracts, and building strong client relationships",
+          "Used innovative approaches to create cutting-edge web applications that exceeded expectations of clients",
+          "Provided exceptional customer service through proactive communication with clients throughout the development process"
+        ]
+      }
+    ]
+}
