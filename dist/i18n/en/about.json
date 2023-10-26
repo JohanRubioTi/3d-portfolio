@@ -1,0 +1,24 @@
+{
+  "title": "Introduction",
+  "subtitle": "Overview.",
+  "description1": "I'm a skilled Web and Mobile developer with expertise in JavaScript, AI, React.js, Next.js, Vue.js and Three.js. As an informatics engineer, I bring a creative approach to problem-solving and strive to deliver the best results for your business needs. My focus is on collaborating closely with clients to ensure efficient development of user-friendly solutions that meet their unique requirements. With my commitment and passion for delivering high-quality workmanship, I'm confident that together we can turn your ideas into reality.",
+  "description2": "Let's build something amazing!",
+  "services": [
+    {
+      "title": "Web Developer",
+      "icon": "./assets/logo.png"
+    },
+    {
+      "title": "React Native Developer",
+      "icon": "./assets/mobile.png"
+    },
+    {
+      "title": "Backend Developer",
+      "icon": "./assets/backend.png"
+    },
+    {
+      "title": "Content Creator",
+      "icon": "./assets/creator.png"
+    }
+  ]
+}
